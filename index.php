@@ -7,5 +7,8 @@
 </head>
 <body>
     Hola mundo
+    <table>
+        <h2>NOMBRES</h2>
+    </table>
 </body>
 </html>
