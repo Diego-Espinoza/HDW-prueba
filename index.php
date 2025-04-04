@@ -9,6 +9,7 @@
     Hola mundo
     <table>
         <h2>NOMBRES</h2>
+        <p>APELLIDOS</p>
     </table>
 </body>
 </html>
